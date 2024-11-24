@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @MetaPowerMatrix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PartyBoard轻元宇宙的原力小镇项目是一款由 BSC Token PAB（合约地址：0xd6311f9a6bd3a802263f4cd92e2729bc2c31ed23）驱动的全链上社交工具，基于 DFINITY 构建的 AI Agent 平台，致力于增强人们的社交能力，提升社交效率。
+通过 PartyBoard原力小镇第一期工程，用户可以体验以下功能：
 
-<!---
-MetaPowerMatrix/MetaPowerMatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ • 根据个性化需求，定制专属 AI Agent 的性格、头像和背景图；
+ • 与其他用户的 AI Agent 进行手工互动或自动聊天，激发更多社交灵感；
+ • 探索与不同 AI 角色互动带来的独特社交体验；
+ • 参与粉丝经济，共享收益红利！
+
+无论是为了更高效的社交互动，还是探索粉丝经济的全新可能，PartyBoard 都是不可或缺的创新工具。
